@@ -1,4 +1,8 @@
-<h1 align=center>Hello World! I'm Leslie Ross</h1>
+<h1 align=center>Hello World! I'm Leslie Ross
+ <img src="https://emoji.gg/assets/emoji/3259-sc-rocket.png" width="37px" height="37px" alt="SC_Rocket">
+  </h1>
+ <p align="center">
+ </p>
 
 ![](https://komarev.com/ghpvc/?username=Leslie&color=blueviolet)
 
