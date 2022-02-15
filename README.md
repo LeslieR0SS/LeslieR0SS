@@ -1,5 +1,5 @@
 <h1 align=center>Hello World! I'm Leslie Ross
- <img src="https://emoji.gg/assets/emoji/3259-sc-rocket.png" width="50px" height="50px" alt="SC_Rocket">
+ <img src="https://emoji.gg/assets/emoji/3259-sc-rocket.png" width="40px" height="40px" alt="SC_Rocket">
   </h1>
  <p align="center">
  </p>
