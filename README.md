@@ -63,15 +63,10 @@
 <h3>Samsung Desarrolladoras </h3>
 <h4 align="center">Introduction to Web Development</h4>
 <p align="center">
-  <img src="./certificados/niv1.png" alt="Introduction to Web Development" width="400px">
-  <img src="./certificados/niv1_contenidos.png" alt="MongoDB Course proof" width="400px">
+  <img src="./certificados/UAH-certificado.png" alt="Introduction to Web Development" width="400px">
+ 
 </p>
 
-<h4 align="center">Front-End development with HTML5 and CSS3</h4>
-<p align="center">
-  <img src="./certificados/niv2.png" alt="MongoDB Course proof" width="400px">
-  <img src="./certificados/niv2_contenidos.png" alt="MongoDB Course proof" width="400px">
-</p>
 
 ---
 ### GitHub info:
