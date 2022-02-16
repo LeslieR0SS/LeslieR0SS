@@ -10,7 +10,9 @@
 <br>
 
 * 📚 Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
- * 👀 Visit my GitHub [primary account](https://github.com/hostileobject)
+
+* 🧠 Learning various programming lenguages such as **Java**, **Python** or **JavaScript**.
+* 🎨 Also have knowledge of SEO and branding
 * 📬 Email me at **laranibarpozo@cifpfbmoll.eu** or **aleslieross@gmail.com**
 
 
