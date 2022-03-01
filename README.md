@@ -55,7 +55,7 @@
 </p>
 
 ### Connect with Me:
-<a href="www.linkedin.com/in/leslie-aranibar" targer="blank">
+<a href="https://www.linkedin.com/in/leslie-aranibar/" targer="blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width=50/>
 </a>
 
