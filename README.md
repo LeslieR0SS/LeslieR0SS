@@ -64,10 +64,7 @@
 
 <h3>University of Alcalá de Henares </h3>
 <h4 align="center">Introduction to Web Development. Front-End with HTML5 and CSS3</h4>
-<p align="center">
-  <img src="./certificados/UAH-certificado.png" alt="Introduction to Web Development" width="400px">
- 
-</p>
+
 
 
 ---
